@@ -14,4 +14,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertu%C4%9Frul-berber-911ba2173/)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ertugrullberber&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=ertugrullberber&show_icons=true&theme=radical)
+
